@@ -213,6 +213,8 @@
     fstab:                (name: "fstab",             color: rgb("#9b96a2"), icon: __emoji(emoji.page)),
     crypttab:             (name: "fstab",             color: rgb("#9b96a2"), icon: __emoji(emoji.page)),
     mtab:                 (name: "fstab",             color: rgb("#9b96a2"), icon: __emoji(emoji.page)),
+    //GDScript
+    gdscript:             (name: "GDScript",          color: rgb("#478cbf"), icon: __icon("gdscript.svg")), //VSCode Icons
     //Git
     git:                  (name: "Git",               color: rgb("#f34f29"), icon: __icon("git.svg")), //Devicons
     //GLSL
