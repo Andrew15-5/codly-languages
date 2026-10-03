@@ -592,6 +592,8 @@
     sshd-config:          (name: "SSHD Config",       color: rgb("#231f20"), icon: __icon("ssh.svg")), //Devicons
     known_hosts:          (name: "Known Hosts",       color: rgb("#231f20"), icon: __icon("ssh.svg")), //Devicons
     known-hosts:          (name: "Known Hosts",       color: rgb("#231f20"), icon: __icon("ssh.svg")), //Devicons
+    //Stan
+    stan:                 (name: "Stan",              color: rgb("#b2001d"), icon: __icon("stan.svg")), //VSCode Icons
     //Strace
     strace:               (name: "Strace",            color: rgb("#f59217"), icon: __icon("strace.svg")), //Wikimedia
     //Stylus
